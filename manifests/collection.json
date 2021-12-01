@@ -1,0 +1,13 @@
+{
+  "id" : "https://AlexHailey.github.io/Quarantine/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in AlexHailey/Quarantine project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://AlexHailey.github.io/Quarantine/manifests/quarantine_1.json",
+    "label" : "Bahrain Quarantine"
+  } ]
+}
