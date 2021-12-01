@@ -1,0 +1,137 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AlexHailey.github.io/Quarantine/manifests/quarantine_1.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bahrain Quarantine",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Bahrain Government"
+  } ],
+  "description" : [ {
+    "@value" : "Images of a bridge and quarantine stations at Bahrain, 1931",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "India Office Records, British Library",
+  "sequences" : [ {
+    "@id" : "http://0d75ec9c-15fd-4a94-a1ef-fdc30ac54e57",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://e8f72362-2277-4a26-bd64-1da66d25b2bf",
+      "@type" : "sc:Canvas",
+      "label" : "f46r",
+      "height" : 5979,
+      "width" : 3440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c7b2741c-c291-4848-a66f-d147c3478dbd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0096.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0096.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 5979,
+          "width" : 3440
+        },
+        "on" : "http://e8f72362-2277-4a26-bd64-1da66d25b2bf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ab54ec99-7155-4a82-92c6-1f673d223a37",
+      "@type" : "sc:Canvas",
+      "label" : "f115r",
+      "height" : 6004,
+      "width" : 3583,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d589109-ca6c-421d-9f06-f9e394abf0d7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0234.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0234.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 6004,
+          "width" : 3583
+        },
+        "on" : "http://ab54ec99-7155-4a82-92c6-1f673d223a37"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4c1f5fbd-2602-4aab-a323-90913de9344e",
+      "@type" : "sc:Canvas",
+      "label" : "f116r",
+      "height" : 6004,
+      "width" : 3583,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://746b4a2f-8d11-4e78-afee-ebed83eab508",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0236.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100000000241.0x000101/IOR_R_15_2_306_0236.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 3000,
+              "maxHeight" : 3000
+            } ]
+          },
+          "height" : 6004,
+          "width" : 3583
+        },
+        "on" : "http://4c1f5fbd-2602-4aab-a323-90913de9344e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "members" : [ {
+      "@id" : "http://example.org/iiif/book1/range/r1",
+      "@type" : "sc:Range",
+      "label" : "Introduction"
+    } ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/r1",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://e8f72362-2277-4a26-bd64-1da66d25b2bf" ]
+  } ]
+}
